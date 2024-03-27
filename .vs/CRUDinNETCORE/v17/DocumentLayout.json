@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\helpers\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:helpers\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|c:\\users\\dell\\documents\\code\\.net\\crudinnetcore\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03301815-B5FD-4A7E-B723-3AF472D369A0}|CRUDinNETCORE.csproj|solutionrelative:helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:35:34.055Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwDsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:11.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Models\\AuthenticateResponse.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Models\\AuthenticateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AuthenticateRequest.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\AuthenticateRequest.cs",
+              "RelativeToolTip": "Models\\AuthenticateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:08.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Models\\AppSettings.cs",
+              "RelativeToolTip": "Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:07.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Helpers\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Helpers\\JwtMiddleware.cs",
+              "RelativeToolTip": "Helpers\\JwtMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:39:05.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Helpers\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Helpers\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\CODE\\.NET\\CRUDinNETCORE\\Helpers\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Helpers\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:36:48.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

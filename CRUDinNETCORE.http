@@ -1,0 +1,6 @@
+@CRUDinNETCORE_HostAddress = http://localhost:5197
+
+GET {{CRUDinNETCORE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
